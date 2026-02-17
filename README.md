@@ -22,7 +22,9 @@ client = air.air_wrap(OpenAI())
 
 15 repos. 200+ tests. CI on every push. Apache-2.0.
 
-> **See it live:** [Interactive Test Suite](https://nostalgicskinco.github.io/air-blackbox-gateway/test-suite-demo.html) — 30 tests across 8 LLM providers.
+> **See it live:** [Interactive Demo](https://nostalgicskinco.github.io/air-blackbox-gateway/air-demo.html) — watch an agent run, inspect the audit chain, tamper with a record, and see the chain break.
+>
+> Also: [Test Suite](https://nostalgicskinco.github.io/air-blackbox-gateway/test-suite-demo.html) — 30 tests across 8 LLM providers.
 
 ---
 
